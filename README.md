@@ -7,3 +7,7 @@ Fetch data from your backend using axios or fetch.
 Deploy the Application
 1. Create Dockerfiles
 Create a Dockerfile for the backend and frontend.
+2. Deploy with Docker Compose
+Create a docker-compose.yml file to orchestrate the containers.
+ Run Docker Compose
+Run docker-compose up to start the application.
